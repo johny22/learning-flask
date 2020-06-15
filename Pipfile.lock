@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "8684575dc2e2ee3ef130963dade592c67e470b510ee5ccd3a60920b144ac8e32"
+            "sha256": "cadfaeb33b8d0ffd5a38bf5c39326be8ce09df649a1c6d4d3cb325c28a9e271c"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -30,6 +30,10 @@
             ],
             "index": "pypi",
             "version": "==1.1.2"
+        },
+        "flaskr": {
+            "editable": true,
+            "path": "./flaskr"
         },
         "itsdangerous": {
             "hashes": [
@@ -82,6 +86,14 @@
                 "sha256:e8313f01ba26fbbe36c7be1966a7b7424942f670f38e666995b88d012765b9be"
             ],
             "version": "==1.1.1"
+        },
+        "python-dotenv": {
+            "hashes": [
+                "sha256:25c0ff1a3e12f4bde8d592cc254ab075cfe734fc5dd989036716fd17ee7e5ec7",
+                "sha256:3b9909bc96b0edc6b01586e1eed05e71174ef4e04c71da5786370cebea53ad74"
+            ],
+            "index": "pypi",
+            "version": "==0.13.0"
         },
         "werkzeug": {
             "hashes": [
